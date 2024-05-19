@@ -17,7 +17,7 @@ const Footer = () => {
                                 </div>
                             </div>
                             <div>
-                                <p className="text-white py-4">Copyright © 2024 www.askai.ai | All Rights <br /> Reserved.</p>
+                                <p className="text-white py-4">Copyright © 2024 www.askai.ai | All Rights Reserved.</p>
                             </div>
                         </div>
 
