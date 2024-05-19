@@ -3,10 +3,13 @@
     background-size: cover;
     background-position: center;
     /* background-attachment: fixed; */
-    height: 700px;
+    height: 600px;
     background-image: url(../../../../../../assets/Banner/image.png);
 
     @media (max-height: 600px) {
-        height: 700px;
+        height: 600px;
+    }
+    @media (max-height: 425px) {
+        height: 500px;
     }
 }
