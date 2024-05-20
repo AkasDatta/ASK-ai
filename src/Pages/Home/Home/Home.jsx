@@ -1,9 +1,11 @@
 import Banner from "./Home/Banner/Banner";
+import Testimonial from "./Home/Testimonial/Testimonial";
 
 const Home = () => {
     return (
-        <div className="px-5 py-4 max-w-screen-2xl mx-auto lg:px-10 overflow-x-hidden">
+        <div className="">
             <Banner></Banner>
+            <Testimonial></Testimonial>
         </div>
     );
 };
