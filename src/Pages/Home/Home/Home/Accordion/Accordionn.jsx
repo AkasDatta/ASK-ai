@@ -4,7 +4,7 @@ const Accordionn = () => {
     return (
         <div className="bg-[#F9FAFB] px-5 max-w-screen-2xl mx-auto lg:px-10 overflow-x-hidden py-10 md:py-20 lg:py-24 text-center">
             <div className='flex justify-center py-4 md:py-6 lg:pb-6'>
-                <p className="px-5 py-2 text-xs md:text-2xl lg:text-2xl text-[#344054] font-semibold bg-blue-50 rounded-full">
+                <p className="px-5 py-2 text-xs md:text-xl lg:text-xl text-[#344054] font-semibold bg-blue-50 rounded-full">
                     Have Questions About Pricing?
                 </p>
             </div>

@@ -4,10 +4,10 @@ const PricingTable = () => {
 
     return (
         <div className="bg-white px-5 max-w-screen-2xl mx-auto lg:px-10 overflow-x-hidden py-10 md:py-20 lg:py-24 text-center">
-            <h2 className="text-2xl md:text-5xl lg:text-6xl font-bold text-gray-800">
+            <h2 className="text-2xl md:text-5xl lg:text-5xl font-bold text-gray-800">
                 Choose Your Plan And Start <br />Your Free <span className="text-blue-500">7-Day Trial</span>
             </h2>
-            <p className="py-4 md:py-8 lg:pt-10 lg:pb-0 text-xs md:text-2xl lg:text-2xl max-w-screen-sm mx-auto text-[#344054] font-semibold">
+            <p className="py-4 md:py-8 lg:pt-8 lg:pb-0 text-xs md:text-2xl lg:text-2xl max-w-screen-sm mx-auto text-[#344054] font-semibold">
                 Save up to $5,468/year with the ‘Ask AI’ plan
             </p>
             <div className='flex justify-center gap-8 text-xl'>
@@ -17,7 +17,7 @@ const PricingTable = () => {
 
             <div className="">
                 <section>
-                    <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
+                    <div className="py-4 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
                         <div className="space-y-8 lg:grid lg:grid-cols-3 sm:gap-6 xl:gap-4 lg:space-y-0">
                             {/* <!-- Pricing Card --> */}
                             <div className="flex flex-col mx-auto max-w-lg text-center text-gray-900 bg-white hover:bg-gray-900 rounded-2xl border border-blue-100 shadow hover:text-white">
@@ -83,7 +83,7 @@ const PricingTable = () => {
                                     </ul>
                                     
                                 </div>
-                                <a href="#" className="text-white bg-blue-400 hover:bg-primary-700 focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center flex gap-2 justify-center  mx-8 mb-8 lg:mt-16 mt-0">Start Free Trial <FaArrowRight className="mt-1"/></a>
+                                <a href="#" className="text-white bg-blue-400 hover:bg-primary-700 focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center flex gap-2 justify-center mx-8 mb-8 lg:mt-16 xl:mt-10 ">Start Free Trial <FaArrowRight className="mt-1"/></a>
                             </div>
                             {/* <!-- Pricing Card --> */}
                             <div className="flex flex-col mx-auto max-w-lg text-center text-gray-900 bg-white hover:bg-gray-900 rounded-2xl border border-blue-100 shadow hover:text-white">
@@ -148,7 +148,7 @@ const PricingTable = () => {
                                         </li>
                                     </ul>
                                 </div>
-                                <a href="#" className="text-white bg-blue-400 hover:bg-primary-700 focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center flex gap-2 justify-center  mx-8 mb-8 lg:mt-16 mt-0">Start Free Trial <FaArrowRight className="mt-1"/></a>
+                                <a href="#" className="text-white bg-blue-400 hover:bg-primary-700 focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center flex gap-2 justify-center mx-8 mb-8 lg:mt-16 xl:mt-10 mt-0">Start Free Trial <FaArrowRight className="mt-1"/></a>
                        
                             </div>
                             {/* <!-- Pricing Card --> */}
@@ -163,7 +163,7 @@ const PricingTable = () => {
                                     <a href="#" className="text-white bg-blue-400 hover:bg-primary-700 focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center flex gap-2 justify-center">Start Free Trial <FaArrowRight className="mt-1"/></a>
                                 </div>
 
-                                <div className="xl:p-8 p-6 rounded-t-2xl 
+                                <div className="xl:px-8 xl:py-5 p-6 rounded-t-2xl 
                                 ">
                                     
                                     {/* <!-- List --> */}
