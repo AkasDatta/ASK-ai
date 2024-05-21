@@ -1,6 +1,0 @@
-/* Apply the hover effect to the top section when the bottom section is hovered */
-.bottom-section:hover ~ .top-section,
-.bottom-section:hover ~ .top-section * {
-    background-color: #1f2937; /* Change to your desired hover color */
-    color: white;
-}
