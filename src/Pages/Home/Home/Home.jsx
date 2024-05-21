@@ -1,4 +1,4 @@
-import Accordion from "./Home/Accordion/Accordion";
+import Accordionn from "./Home/Accordion/Accordionn";
 import Banner from "./Home/Banner/Banner";
 import PricingTable from "./Home/PricingTable/PricingTable";
 import Testimonial from "./Home/Testimonial/Testimonial";
@@ -9,7 +9,7 @@ const Home = () => {
             <Banner></Banner>
             <Testimonial></Testimonial>
             <PricingTable></PricingTable>
-            <Accordion></Accordion>
+            <Accordionn></Accordionn>
         </div>
     );
 };
