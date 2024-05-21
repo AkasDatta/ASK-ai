@@ -2,14 +2,15 @@
     position: relative;
     background-size: cover;
     background-position: center;
-    height: 600px;
-    background-image: url(../../../../../../assets/Banner/image.png);
+    height: 1100px;
+    background-image: url(../../../../../../assets/Banner/banner.png);
 
     @media (max-height: 600px) {
-        height: 600px;
+        height: 850px;
+        background-size: cover;
     }
     @media (max-height: 425px) {
-        height: 500px;
+        height: 800px;
+        background-size: cover;
     }
 }
-
