@@ -1,5 +1,4 @@
 import './BannerDown.css';
-import videoImage from "../../../../../../assets/Banner/banner.png"
 
 const BannerDown = () => {
     return (
