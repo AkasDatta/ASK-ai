@@ -61,6 +61,7 @@ To install and run this project locally, follow these steps:
 - `@types/react-dom`: TypeScript types for React DOM.
 - `@vitejs/plugin-react`: Vite plugin for React support.
 - `autoprefixer`: PostCSS plugin to parse CSS and add vendor prefixes.
+- `daisyui`: Tailwind CSS component library.
 - `eslint`: JavaScript linter.
 - `eslint-plugin-react`: ESLint plugin for React.
 - `eslint-plugin-react-hooks`: ESLint plugin for React Hooks.
