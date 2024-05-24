@@ -53,7 +53,7 @@ const PricingTable = () => {
                                     <h3 className="mb-4 text-xl font-extrabold">${prices.basics.toFixed(2)}/Month</h3>
                                     <h3 className="mb-4 text-xl font-bold">
                                         <span className="text-gray-500">Billed {isMonthly ? 'monthly' : 'annually'}</span>
-                                        {isMonthly ? '' : ' (Save $198/year)'}
+                                        {isMonthly ? '(Save $22.76/year)' : ' (Save $198/year)'}
                                     </h3>
                                     <a href="#" className="text-white bg-blue-400 hover:bg-primary-700 focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center flex gap-2 justify-center">
                                         Start Free Trial <FaArrowRight className="mt-1"/>
@@ -111,7 +111,7 @@ const PricingTable = () => {
                                     <h3 className="mb-4 text-xl font-extrabold">${prices.pro.toFixed(2)}/Month</h3>
                                     <h3 className="mb-4 text-xl font-bold">
                                         <span className="text-gray-500">Billed {isMonthly ? 'monthly' : 'annually'}</span>
-                                        {isMonthly ? '' : ' (Save $398/year)'}
+                                        {isMonthly ? '(Save $36.64/year)' : ' (Save $398/year)'}
                                     </h3>
                                     <a href="#" className="text-white bg-blue-400 hover:bg-primary-700 focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center flex gap-2 justify-center">
                                         Start Free Trial <FaArrowRight className="mt-1"/>
@@ -169,7 +169,7 @@ const PricingTable = () => {
                                     <h3 className="mb-4 text-xl font-extrabold">${prices.ultraPro.toFixed(2)}/Month</h3>
                                     <h3 className="mb-4 text-xl font-bold">
                                         <span className="text-gray-500">Billed {isMonthly ? 'monthly' : 'annually'}</span>
-                                        {isMonthly ? '' : ' (Save $598/year)'}
+                                        {isMonthly ? '(Save $53.52/year)' : ' (Save $598/year)'}
                                     </h3>
                                     <a href="#" className="text-white bg-blue-400 hover:bg-primary-700 focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center flex gap-2 justify-center">
                                         Start Free Trial <FaArrowRight className="mt-1"/>
