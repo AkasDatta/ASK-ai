@@ -14,7 +14,7 @@ To install and run this project locally, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone <https://github.com/AkasDatta/ASK-ai.git>
+   git clone https://github.com/AkasDatta/ASK-ai.git
    ```
 
 2. Navigate to the project directory:
