@@ -1,0 +1,14 @@
+/* Add these styles to your CSS */
+.card:hover {
+    background-color: gray;
+    color: white;
+}
+
+.card:hover .bg-gray-50 {
+    background-color: gray;
+    color: white;
+}
+
+.card:hover .bg-blue-400 {
+    background-color: darkblue;
+}
